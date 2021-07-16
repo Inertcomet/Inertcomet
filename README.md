@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Inertcomet
+- 👀 I’m interested in creating games
+- 🌱 I’m currently learning how to create games with Unity
+- 💞️ I’m looking to collaborate on nothing yet im still learning
+- 📫 How to reach me Inertcomet@gmail.com
